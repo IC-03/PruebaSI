@@ -3,3 +3,6 @@ mandarina
 naranja
 pera
 fresas
+
+8 mangos
+3 Bananos
